@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to JIZ Development Pages
 
 You can use the [editor on GitHub](https://github.com/gajag2/iOS-Apps/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
